@@ -1,0 +1,9 @@
+﻿# Gradle / IDE
+.gradle
+/build
+/.idea
+*.iml
+
+# Android keystores / secrets
+key.properties
+*.jks
